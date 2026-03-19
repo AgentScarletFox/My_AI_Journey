@@ -1,4 +1,4 @@
-### MY AI JOURNEY
+## MY AI JOURNEY
 
 ## 📜 Certifications
 
