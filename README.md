@@ -38,14 +38,11 @@ I operate at the intersection of:
 ### 💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge\&logo=python)
-![C++](https://img.shields.io/badge/C++-000?style=for-the-badge\&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge\&logo=javascript)
 
 ### 🤖 AI / ML
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge\&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-000?style=for-the-badge\&logo=pytorch)
-![Scikit](https://img.shields.io/badge/ScikitLearn-000?style=for-the-badge\&logo=scikitlearn)
 
 ### ⚙️ Tools
 
