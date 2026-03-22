@@ -1,0 +1,23 @@
+Video 14 — Break and Continue
+
+Overview:
+Control loop execution: break exits the loop, continue skips to the next iteration.
+
+Key Concepts:
+
+Optimize loop execution
+Useful for early exit or conditional skipping
+
+Example:
+
+for i in range(5):
+    if i == 3:
+        break
+    if i == 1:
+        continue
+    print(i)
+
+Practical Insights:
+
+Reduces unnecessary computation
+Improves efficiency in iterative tasks
