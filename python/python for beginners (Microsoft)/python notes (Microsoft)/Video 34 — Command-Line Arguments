@@ -1,0 +1,13 @@
+Video 34 — Command-Line Arguments
+
+Overview:
+Pass arguments to scripts using sys.argv.
+
+Example:
+
+import sys
+print(sys.argv[1])
+
+Practical Insights:
+
+Makes scripts flexible and automatable
