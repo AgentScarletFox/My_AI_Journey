@@ -75,8 +75,8 @@ Demonstrates advanced conflict resolution and version control problem-solving
 
 ### 🔹 Open Source Contributions
 
-Active contributions to real-world repositories with pull requests and collaboration
-👉 https://github.com/yourusername/open-source-contributions
+Active contributions in git releasing
+👉 https://github.com/AgentScarletFox/git-release-system
 
 ---
 
