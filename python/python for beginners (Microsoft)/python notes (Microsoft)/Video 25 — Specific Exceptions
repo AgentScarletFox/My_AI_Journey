@@ -1,0 +1,15 @@
+Video 25 — Specific Exceptions
+
+Overview:
+Catch specific errors for precise debugging.
+
+Example:
+
+try:
+    1/0
+except ZeroDivisionError:
+    print("Cannot divide by zero")
+
+Practical Insights:
+
+Avoids generic exception handling pitfalls
