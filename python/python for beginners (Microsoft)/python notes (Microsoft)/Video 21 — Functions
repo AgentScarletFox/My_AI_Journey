@@ -1,0 +1,14 @@
+Video 21 — Functions
+
+Overview:
+Encapsulate reusable logic. Improves modularity, readability, and maintainability.
+
+Example:
+
+def greet(name):
+    return f"Hello, {name}"
+
+Practical Insights:
+
+Reduces redundancy
+Enables testing individual code blocks
