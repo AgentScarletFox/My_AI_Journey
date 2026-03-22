@@ -71,7 +71,7 @@ Simulates professional development workflow using branching strategies, pull req
 ### 🔹 Merge Conflict Master
 
 Demonstrates advanced conflict resolution and version control problem-solving
-👉 https://github.com/yourusername/merge-conflict-master
+👉https://github.com/AgentScarletFox/merge-conflict-master
 
 ### 🔹 Open Source Contributions
 
