@@ -1,0 +1,13 @@
+Video 29 — Modules and Libraries
+
+Overview:
+Organize and reuse code with modules; extend functionality with libraries.
+
+Example:
+
+import math
+print(math.sqrt(16))
+
+Practical Insights:
+
+Avoid reinventing the wheel; leverage Python ecosystem
