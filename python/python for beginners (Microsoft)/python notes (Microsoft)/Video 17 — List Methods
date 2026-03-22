@@ -1,0 +1,14 @@
+Video 17 — List Methods
+
+Overview:
+Methods like append(), remove(), sort(), insert() help manage lists dynamically.
+
+Example:
+
+fruits.append("mango")
+fruits.sort()
+
+Practical Insights:
+
+Essential for collection management
+Makes list operations concise and readable
