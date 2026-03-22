@@ -1,0 +1,13 @@
+Video 38 — Basic APIs
+
+Overview:
+Interact with external services via HTTP requests.
+
+Example:
+
+import requests
+response = requests.get("https://api.example.com")
+
+Practical Insights:
+
+Bridges Python programs with real-world data
