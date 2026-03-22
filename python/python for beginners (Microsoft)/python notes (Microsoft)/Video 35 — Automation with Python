@@ -1,0 +1,13 @@
+Video 35 — Automation with Python
+
+Overview:
+Automate repetitive tasks like file handling or reporting.
+
+Example:
+
+import os
+os.rename("old.txt","new.txt")
+
+Practical Insights:
+
+Saves time, reduces human error
