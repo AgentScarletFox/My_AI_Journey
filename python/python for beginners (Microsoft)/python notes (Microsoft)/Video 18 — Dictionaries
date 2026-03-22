@@ -1,0 +1,17 @@
+Video 18 — Dictionaries
+
+Overview:
+Key-value mappings for fast lookup and structured data storage.
+
+Key Concepts:
+
+Access: dict[key]
+Add/Update: dict[key] = value
+
+Example:
+
+person = {"name": "Alice", "age": 25}
+
+Practical Insights:
+
+Efficient for storing structured, dynamic data
