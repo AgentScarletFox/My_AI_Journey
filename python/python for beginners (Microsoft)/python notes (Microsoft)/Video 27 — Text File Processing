@@ -1,0 +1,13 @@
+Video 27 — Text File Processing
+
+Overview:
+Read files line by line; manipulate content programmatically.
+
+Example:
+
+with open("data.txt","r") as f:
+    lines = f.readlines()
+
+Practical Insights:
+
+Prepares data for analytics, reporting, or transformation
