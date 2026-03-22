@@ -1,0 +1,13 @@
+Video 26 — File Handling
+
+Overview:
+Read/write external files. Use with open() for automatic resource management.
+
+Example:
+
+with open("data.txt","w") as f:
+    f.write("Hello")
+
+Practical Insights:
+
+Core for persistence, logging, and automation
