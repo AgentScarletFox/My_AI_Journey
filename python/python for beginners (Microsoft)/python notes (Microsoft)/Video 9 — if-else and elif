@@ -1,0 +1,23 @@
+Video 9 — if-else and elif
+
+Overview:
+Build multi-branch decisions with if-elif-else. Handles multiple scenarios efficiently.
+
+Key Concepts:
+
+elif for intermediate conditions
+else as a default fallback
+
+Example:
+
+if score >= 90:
+    grade = "A"
+elif score >= 80:
+    grade = "B"
+else:
+    grade = "C"
+
+Practical Insights:
+
+Prevents deeply nested conditions
+Makes code readable and maintainable
