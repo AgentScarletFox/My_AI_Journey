@@ -1,0 +1,18 @@
+Video 2 — Setting up Python
+
+Overview:
+Set up the Python environment using official installer. Choose IDEs (VS Code, PyCharm, IDLE). Understand interpreter execution and REPL (Read-Eval-Print Loop).
+
+Key Concepts:
+
+Python interpreter vs scripts
+Virtual environments for project isolation
+
+Example:
+
+python hello.py
+
+Practical Insights:
+
+Proper setup ensures smooth development
+REPL is great for testing code snippets quickly
