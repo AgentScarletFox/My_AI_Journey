@@ -1,0 +1,13 @@
+Video 22 — Parameters and Return Values
+
+Overview:
+Functions accept input via parameters and return results.
+
+Example:
+
+def square(x):
+    return x*x
+
+Practical Insights:
+
+Makes functions flexible and testable
