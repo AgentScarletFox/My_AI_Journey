@@ -1,0 +1,16 @@
+Video 20 — Sets and Tuples
+
+Overview:
+
+Set: Unordered, unique elements
+Tuple: Immutable ordered sequence
+
+Example:
+
+numbers = {1,2,3}
+coords = (10,20)
+
+Practical Insights:
+
+Sets: uniqueness check
+Tuples: fixed data storage
