@@ -1,0 +1,13 @@
+Video 30 — Standard Libraries
+
+Overview:
+Python ships with libraries like os, datetime, random for common tasks.
+
+Example:
+
+import random
+print(random.randint(1,10))
+
+Practical Insights:
+
+Saves time; improves reliability and maintainability
