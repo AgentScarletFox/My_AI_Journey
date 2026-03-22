@@ -1,0 +1,20 @@
+Video 12 — Using range()
+
+Overview:
+range() generates numeric sequences, often used in loops.
+
+Key Concepts:
+
+range(stop)
+range(start, stop)
+range(start, stop, step)
+
+Example:
+
+for i in range(2, 10, 2):
+    print(i)
+
+Practical Insights:
+
+Controls loop iteration precisely
+Common in indexing and batch operations
