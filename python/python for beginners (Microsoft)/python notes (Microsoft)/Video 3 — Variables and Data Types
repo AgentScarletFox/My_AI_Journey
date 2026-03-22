@@ -1,0 +1,20 @@
+Video 3 — Variables and Data Types
+
+Overview:
+Variables store values dynamically. Python automatically determines types. Supports integers, floats, strings, booleans, lists, tuples, sets, and dictionaries.
+
+Key Concepts:
+
+Dynamic typing: no need to declare type
+Memory allocation is handled by Python
+
+Example:
+
+x = 10      # int
+y = 3.14    # float
+name = "Alice"  # string
+
+Practical Insights:
+
+Use meaningful variable names
+Understand types for operations, debugging, and memory management
