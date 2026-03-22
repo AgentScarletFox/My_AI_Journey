@@ -1,0 +1,19 @@
+Video 11 — For Loops
+
+Overview:
+for loops iterate over sequences such as lists, strings, or ranges.
+
+Key Concepts:
+
+Iterate over elements directly
+Cleaner syntax than while loops for sequences
+
+Example:
+
+for fruit in ["apple", "banana", "cherry"]:
+    print(fruit)
+
+Practical Insights:
+
+Ideal for processing collections
+Reduces errors compared to manual indexing
